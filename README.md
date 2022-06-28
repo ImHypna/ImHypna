@@ -1,5 +1,5 @@
 <div>PTBR:Olá eu sou Hypna, sou estudante de bacharelado em ciência da computacão</div>
-ENG: Hi, I'm Hypna an bacharelor of computer science student at PUC-PR Brazil
+ENG: Hi, I'm Hypna an bacharelor of computer science student at "Universidade Positivo" Brazil
 
 
 
