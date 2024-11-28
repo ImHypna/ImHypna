@@ -1,11 +1,32 @@
-<div>PTBR:Olá eu sou Hypna, sou estudante de bacharelado em ciência da computacão</div>
-<div>
-  <br>
-ENG: Hi, I'm Hypna an bacharelor of computer science student at "Universidade Positivo" Brazil
-</div>
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dor%C3%A9_-_Vivien_Pa_II.jpg/800px-Dor%C3%A9_-_Vivien_Pa_II.jpg)
 
 
+```markdown
+# Pedro Henrique Cagol
 
-![Hypna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImHypna&show_icons=true&theme=dracula)
+Desenvolvedor de software e apaixonado por tecnologia.
+
+---
+
+## /About Me
+
+```bash
+/BIO
+   🌍 Brazilian – (🇧🇷 & 🇺🇸 ENGLISH)
+   🎓 Ciência da Computação
+   💼 Embedded Systems Developer
+
+/OS
+   💻 Ubuntu v24.04-LTS
+   🖥️ Windows 11
+
+/STACK
+   
+   🛠️ C, C++, Rust
+   
+
+/TOOLS
+   ✏️ Visual Studio Code
+   
 
 
